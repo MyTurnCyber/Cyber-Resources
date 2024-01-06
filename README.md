@@ -1,8 +1,8 @@
 # Cyber-Resources
 
-Trying to build a curated list of free educational libraries, games, resources, and softwares. Hoping to build as time goes on!
+Trying to build a curated list of free educational libraries, games, resources, and softwares. Hoping to build as time goes on! *If you know a website that isn't listed, is wrong, isn't mostly free, or find deadlinks, feel free to open a pull request.* 
 
-#### *If you know a website that isn't listed, is wrong, isn't mostly free, or deadlinks, feel free to open a pull request.*
+## If you like what you see, please support my efforts by exploring [MyTurn](https://myturn.careers/).
 
 ## Simulators / Wargames
 
