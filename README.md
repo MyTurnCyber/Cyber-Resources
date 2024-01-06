@@ -1,4 +1,4 @@
-# Cybersecurity Resources
+# Free Cybersecurity Resources
 
 Trying to build a curated list of free educational libraries, games, resources, and softwares. Hoping to build as time goes on! *If you know a website that isn't listed, is wrong, isn't mostly free, or find deadlinks, feel free to open a pull request.* 
 
