@@ -22,10 +22,13 @@ Trying to build a curated list of free educational libraries, games, resources, 
 - [Grey Hack](https://greyhackgame.com/)
 - [CTF316](https://316ctf.com/)
 - [OverTheWire](https://overthewire.org/wargames/)
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - The OWASP Juice Shop is an intentionally insecure web application designed for educational purposes by the Open Web Application Security Project (OWASP). It serves as a platform to teach web application security in a hands-on manner.
+- [Smash The Stack](https://www.smashthestack.org/)
 
-## Challenge / CTFs
+## Challenge / CTFs / Competitions
 
 - [CTF 101](https://ctf101.org/) - Learning guide
+
 - [CTF Time](https://ctftime.org/ctfs/)
 - [PicoCTF](https://www.picoctf.org/)
 - [Hacker101 CTF](https://ctf.hacker101.com/)
@@ -41,6 +44,9 @@ Trying to build a curated list of free educational libraries, games, resources, 
 - [CryptoHack](https://cryptohack.org/)
 - [Pwnable.kr](http://pwnable.kr/)
 - [NewbieContest](https://www.newbiecontest.org/)
+- [DefCon](https://defcon.org/)
+- [National Cyber League](https://nationalcyberleague.org/)
+- [Cyber Patriots](https://www.uscyberpatriot.org/)
 
 ## Bug Bounty
 
